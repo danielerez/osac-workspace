@@ -98,6 +98,8 @@ aap:
   aap:
     instance:
       enabled: false
+    apiToken:
+      create: false
   bootstrap:
     enabled: false
 
